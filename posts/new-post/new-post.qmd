@@ -3,3 +3,4 @@ title: "new-post"
 format: html
 ---
 
+Hello, this is a new post.
