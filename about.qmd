@@ -13,7 +13,8 @@ about:
     - icon: github
       text: Github
       href: https://github.com
+
 ---
 
-I am a PACU and Anaesthetic Nurse with nearly 15 years of clinical experience, currently completing a Master of Science in Health Data Science at UNSW Sydney. This blog documents my learning journey in
-health data science, statistical modelling, and R programming.
+I am a PACU and Anaesthetic Nurse with nearly 15 years of clinical experience, currently completing a Master of Science in Health Data Science at UNSW Sydney. This blog documents my learning journey in health data science, statistical modelling, and R programming.
+---
